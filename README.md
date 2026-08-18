@@ -10,13 +10,13 @@ Este repositório centraliza os logotipos, banners e elementos visuais oficiais 
 
 ### Padrão da URL:
 
-`https://jsdelivr.net[ORGANIZACAO]/[REPOSITORIO]@main/images/[CAMINHO_DA_IMAGEM]`
+`https://cdn.jsdelivr.net/gh/SteelMast-Labs/branding@main/images/[CAMINHO_DA_IMAGEM]`
 
 _Exemplo prático para assinatura de e-mail:_
 
 ```html
 <img
-  src="https://jsdelivr.net[ORGANIZACAO]/[REPOSITORIO]@main/images/brand/logo-primary.png"
+  src="https://cdn.jsdelivr.net/gh/SteelMast-Labs/branding@main/images/email/exposibram-2026.png"
   alt="Steelmast"
 />
 ```
