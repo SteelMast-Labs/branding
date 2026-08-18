@@ -1,4 +1,4 @@
-# Steelmast Branding
+# SteelMast Branding
 
 Este repositório centraliza os logotipos, banners e elementos visuais oficiais da Steelmast. O objetivo é garantir a consistência da marca em todos os canais digitais (e-mails, sistemas e sites).
 
